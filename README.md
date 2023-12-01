@@ -38,3 +38,7 @@ I told it: Please refrain from giving large code examples, tell me what to do an
 The output was no longer helpful so I told it: Please give larger syntax
 
 I made sure to *constantly* ask questions, like, a LOT
+
+.
+
+I ended up relying on it a bit to write for me, I'm going to try using the prompt to only teach me more often and turn off in-line code suggestions
