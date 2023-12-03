@@ -1,3 +1,7 @@
+// Yo I forgot to make a second file for part 2 so I was working in my part 1 file
+// And now since it's my part 2 solution it's called part 2
+// My part 1 solution is technically in here if you remove and change a few things
+
 #include <iostream>
 #include <fstream>
 #include <vector>
